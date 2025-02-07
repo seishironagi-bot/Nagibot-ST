@@ -3,13 +3,13 @@ let staff = `🚩 *EQUIPO DE AYUDANTES*
 🤖 *Bot:* ${global.botname}
 🪐 *Versión:* ${global.vs}
 
-• 𝐃𝐚𝐫𝐤𝐂𝐨𝐫𝐞
-🎩 *Rol:* Developer
-💛 *Número:* Wa.me/51968382008
+• Alteración Knigth
+🎩 *Rol:* Sin rol 
+💛 *Número:* Wa.me/50760276593
 
-• 𝐃𝐞𝐬𝐭𝐫𝐨𝐲
-🍭 *Rol* Developer
-💛 *Numero:* Wa.me/584120346669
+• Nick's chacon
+🍭 *Rol* creación y edición de logos
+💛 *Numero:* Wa.me/50240447765
 
 • 𝐏𝐫𝐚𝐤 𝐇𝐚𝐫𝐩𝐞𝐫 
 🎩 *Rol:* Developer y Editor Profesional
@@ -23,7 +23,7 @@ let staff = `🚩 *EQUIPO DE AYUDANTES*
 🎩 *Rol:* Experiencia En Mantenimiento y Soporte Del Bot
 💛 *Número:* Wa.me/51971867199
 
-• Meliodas
+• Angel
 🍭 *Rol:* Experiencia En Gestión De Grupos
 💛 *Numero:* Wa.me/50368471855
 
