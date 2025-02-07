@@ -23,13 +23,13 @@ let staff = `🚩 *EQUIPO DE AYUDANTES*
 🎩 *Rol:* Experiencia En Mantenimiento y Soporte Del Bot
 💛 *Número:* Wa.me/51971867199
 
-• 𝐌𝐨𝐫𝐚𝐥𝐞𝐬
+• Meliodas
 🍭 *Rol:* Experiencia En Gestión De Grupos
-💛 *Numero:* Wa.me/573007796996
+💛 *Numero:* Wa.me/50368471855
 
 • 𝐃𝐞𝐲𝐥𝐢𝐧 
 🎩 *Rol:* Experiencia En Redacción y Decoración De Textos
-💛 *Número:* Wa.me/50488198573
+💛 *Número:* Wa.me/
 
 • 𝐎𝐫𝐥𝐚𝐧𝐝𝐨
 🍭 *Rol:* Gestión De Grupos
